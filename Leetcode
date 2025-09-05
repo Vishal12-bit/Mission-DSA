@@ -1,4 +1,4 @@
-trapping rain water.c
+42-trapping rain water.c
 
 int trap(int* height, int heightSize) {
     if (heightSize < 3) return 0;
